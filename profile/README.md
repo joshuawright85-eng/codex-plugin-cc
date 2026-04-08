@@ -51,8 +51,8 @@ focus:
   - Developer tooling & automation
   - Open-source software that ships
 currently:
-  building: "Things that matter"
-  learning: "Always"
+  building: "Cloud-native tools & developer platforms"  # ← customize this
+  learning: "Rust, distributed systems, and AI tooling"  # ← customize this
 motto: "Code is craft. Ship with intent."
 ```
 
