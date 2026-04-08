@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/badge/license-Apache--2.0-yellow)](LICENSE)
+[![Node](https://img.shields.io/badge/node-%3E%3D18.18-black)](package.json)
+[![Plugin](https://img.shields.io/badge/Claude_Code-plugin-cyan)](plugins/codex)
+
 # Codex plugin for Claude Code
 
 Use Codex from inside Claude Code for code reviews or to delegate tasks to Codex.
